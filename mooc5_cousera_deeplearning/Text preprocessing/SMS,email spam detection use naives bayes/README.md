@@ -45,4 +45,5 @@
 ### Cách sử dụng
 1. Mở ngay terminal trên file app.py
 2. chạy streamlit run app.py
+
 Ứng dụng này sẽ giúp người dùng nhanh chóng kiểm tra xem một tin nhắn có phải là spam hay không, rất hữu ích trong việc lọc tin nhắn rác.
